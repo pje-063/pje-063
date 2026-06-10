@@ -1,16 +1,42 @@
-## Hi there 👋
+ Hello, I'm Vidya Vijay 👋
 
-<!--
-**pje-063/pje-063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Graduate (2026)
 
-Here are some ideas to get you started:
+I'm passionate about leveraging technology to solve real-world problems through Artificial Intelligence, Data Science, Data Analytics, Cybersecurity, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Skills
+- C
+- Python
+- SQL
+- PyTorch
+- HTML
+- CSS
+- TensorFlow
+- MongoDB
+- OpenCV
+- Git & GitHub
+
+ 🔹 Featured Projects
+- Medical Text Summarization using Transformers
+- ASL Sign Language Detection using CNN
+- Flipkart Clone Web Application
+- Web Security Audit Project
+
+ 🔹 Interests
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Cybersecurity
+- Software Development
+
+🔹 Currently Exploring
+- Scikit-learn
+- Power BI
+- Deep Learning
+- Generative AI
+
+ 📫 Let's Connect
+ Email: vidyavijay057@gmail.com
+ LinkedIN : https://www.linkedin.com/in/vidya-vijay-217012370
+📧 Email: vidyavijay057@gmail.com
+
+💼 LinkedIn: Your LinkedIn Profile
