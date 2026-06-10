@@ -35,8 +35,6 @@ I'm passionate about leveraging technology to solve real-world problems through 
 - Generative AI
 
  📫 Let's Connect
- Email: vidyavijay057@gmail.com
- LinkedIN : https://www.linkedin.com/in/vidya-vijay-217012370
 📧 Email: vidyavijay057@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/vidya-vijay-217012370
