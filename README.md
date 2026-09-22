@@ -1,40 +1,37 @@
- Hello, I'm Vidya Vijay 👋
+# Hi, I'm Vidya Vijay 👋
 
-🎓 B.Tech Computer Science and Engineering Graduate (2026)
+🎓 **B.Tech CSE Graduate (2026)** | Aspiring Software Engineer specializing in Python Backend Development, REST API Design, and Database Architecture.
 
-I'm passionate about leveraging technology to solve real-world problems through Artificial Intelligence, Data Science, Data Analytics, Cybersecurity, and Software Development.
+---
 
-🔹 Skills
-- C
-- Python
-- SQL
-- PyTorch
-- HTML
-- CSS
-- TensorFlow
-- MongoDB
-- OpenCV
-- Git & GitHub
+### 🛠️ Technical Stack
 
- 🔹 Featured Projects
-- Medical Text Summarization using Transformers
-- ASL Sign Language Detection using CNN
-- Flipkart Clone Web Application
-- Web Security Audit Project
+- **Languages:** Python, SQL (PostgreSQL, MySQL), C, Java
+- **Backend & APIs:** Django, Django REST Framework, RESTful APIs, JWT Auth
+- **Databases & Web:** PostgreSQL, MySQL, MongoDB, HTML5, CSS3, JavaScript
+- **DevOps & Tools:** Git, GitHub, Linux, Docker, AWS, Postman, Pytest
+- **AI/ML Integration:** PyTorch, TensorFlow, OpenCV, Hugging Face, NLP
 
- 🔹 Interests
-- Artificial Intelligence & Machine Learning
-- Data Science & Analytics
-- Cybersecurity
-- Software Development
+---
 
-🔹 Currently Exploring
-- Scikit-learn
-- Power BI
-- Deep Learning
-- Generative AI
+### 🚀 Featured Projects
 
- 📫 Let's Connect
-📧 Email: vidyavijay057@gmail.com
+- **[Medilite](https://github.com/pje-063/Medilite)** — Medical Text Summarization system using T5 Transformers & Tesseract OCR.
+- **[SignGuide](https://github.com/pje-063/Signguide)** — Real-time ASL gesture recognition system built using CNNs, Keras, and OpenCV.
+- **[JobConnect](https://github.com/pje-063)** — Scalable Python backend service built for job searching, API integration, and user authentication.
+- **Web Security Audit** — Vulnerability analysis & OWASP testing using Burp Suite.
 
-💼 LinkedIn: https://www.linkedin.com/in/vidya-vijay-217012370
+---
+
+### 📌 Currently Building & Learning
+
+- **Building:** Production-grade Python REST APIs & Microservices (JobConnect)
+- **Mastering:** Dockerized deployments, AWS cloud workflows, and System Design fundamentals
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** [vidyavijay057@gmail.com](mailto:vidyavijay057@gmail.com)
+- **LinkedIn:** [Vidya Vijay](https://www.linkedin.com/in/vidya-vijay-217012370)
+- **Portfolio / Code:** [github.com/pje-063](https://github.com/pje-063)
