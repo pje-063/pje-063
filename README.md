@@ -18,7 +18,6 @@
 
 - **[Medilite](https://github.com/pje-063/Medilite)** — Medical Text Summarization system using T5 Transformers & Tesseract OCR.
 - **[SignGuide](https://github.com/pje-063/Signguide)** — Real-time ASL gesture recognition system built using CNNs, Keras, and OpenCV.
-- **[JobConnect](https://github.com/pje-063)** — Scalable Python backend service built for job searching, API integration, and user authentication.
 - **Web Security Audit** — Vulnerability analysis & OWASP testing using Burp Suite.
 
 ---
