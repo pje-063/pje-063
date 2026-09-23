@@ -1,6 +1,6 @@
 # Hi, I'm Vidya Vijay 👋
 
-🎓 **B.Tech CSE Graduate (2026)** | Aspiring **Python Software Engineer** focused on **Backend & AI Application Development**.
+🎓 **B.Tech CSE Graduate (2026)** | Aspiring **Software Engineer** focused on **Backend & AI Application Development**.
 
 I enjoy building practical software applications using Python, backend technologies, databases and modern AI tools.
 
