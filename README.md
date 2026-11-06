@@ -14,7 +14,7 @@ I enjoy building practical software applications using Python, backend technolog
 * **Web:** HTML, CSS, JavaScript
 * **DevOps & Tools:** Git, GitHub, Linux, Docker, AWS, Postman, Pytest
 * **AI/ML:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV
-* **AI Applications:** NLP, Transformers, Hugging Face, LLMs, Embeddings, RAG, AI APIs
+* **AI Applications:** RAG, IBM watsonx.ai, IBM Granite, LangChain, ChromaDB, Hugging Face, Transformers, NLP
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy building practical software applications using Python, backend technolog
 
 * **[MEDILITE](https://github.com/pje-063/Medilite)** — Medical text summarization application using T5 Transformers, PyTorch, Hugging Face and Tesseract OCR.
 * **[SignGuide](https://github.com/pje-063/Signguide)** — Real-time ASL gesture recognition system using CNNs, TensorFlow/Keras and OpenCV.
-* **Web Security Audit** — Web application security testing and vulnerability analysis using Burp Suite.
+* **[AI Interview Trainer Agent](https://github.com/pje-063/AICTE-BOB-.git)** — RAG-powered career assistant using IBM watsonx.ai, Granite 3.8B, ChromaDB, and Flask.
 
 ---
 
